@@ -29,7 +29,7 @@ int main(int argc, char *argv[])
 	
 	c=5;
 
-	cout<<" Hasil Pengurangan Matriks A Eksponen 5 "<<endl;
+	cout<<" Hasil Matriks A Eksponen 5 "<<endl;
 	for (i=0;i<2;i++)
 	{
 		for (j=0;j<2;j++)
